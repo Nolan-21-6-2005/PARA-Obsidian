@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "90d1b8b202890b93",
+    "type": "split",
+    "children": [
+      {
+        "id": "761623fb8a5223c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ec005fa08c82079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Subspace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Subspace"
+            }
+          },
+          {
+            "id": "d5d2e4f957bf3749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Inboxs/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd14759c2e8c2329",
+    "type": "split",
+    "children": [
+      {
+        "id": "879f853ae6b8781f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be4a0b2ebd1b6a5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b6eb3906ad11e00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Math",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c80b27a1971777c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Danh sách việc cần làm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Danh sách việc cần làm"
+            }
+          },
+          {
+            "id": "dd08463988a10620",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "10fa754736ed52cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ee8625d0fdf00e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fc09b947b10b73e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Inboxs/List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for List"
+            }
+          },
+          {
+            "id": "f41ba6c3b6ebea07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Oriented Object Programming.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Oriented Object Programming"
+            }
+          },
+          {
+            "id": "0bdeb946cecf73b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Inboxs/Test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Test"
+            }
+          },
+          {
+            "id": "56ce4a3b4affdaeb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "0adb83bed35eeec7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "56ce4a3b4affdaeb",
+  "lastOpenFiles": [
+    "03 - Resources/Subspace.md",
+    "00 - Inboxs/Test.md",
+    "03 - Resources/Drawing 2025-11-17 15.37.51.excalidraw.md",
+    "Mathematics.canvas",
+    "02 - Areas/P01 - Đặc tả yêu cầu.md",
+    "01 - Projects/Project 01 - 20-09-2025.md",
+    "02 - Areas/P01 - Phân tích yêu cầu.md",
+    "02 - Areas/Dashboard++.md",
+    "02 - Areas/Danh sách việc cần làm.md",
+    "02 - Areas/Computer Vision.md",
+    "Oriented Object Programming.canvas",
+    "00 - Inboxs/Untitled.base",
+    "Clippings/generate and test in ai pseudocode - Google Search.md",
+    "Clippings/Depth First Search (DFS) for Artificial Intelligence.md",
+    "03 - Resources/Recursion(Đệ quy).md",
+    "03 - Resources/Pasted image 20251104220439.png",
+    "03 - Resources/Pasted image 20251104095802.png",
+    "03 - Resources/Pasted image 20251005110005.png",
+    "03 - Resources/Entropy.md",
+    "03 - Resources/Encoder-Decoder.md",
+    "03 - Resources/Dynamic Programming.md",
+    "03 - Resources/ANN development.md",
+    "03 - Resources/bfs.webp",
+    "Attachment/dashboard-snapshot.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "03 - Resources/Đường bậc 2 trong mặt phẳng.md",
+    "00 - Inboxs/Delta.md",
+    "03 - Resources/Pasted image 20251105203110.png",
+    "03 - Resources/PCA - Principal Component Analysis.md",
+    "03 - Resources/Pasted image 20251104103558.png",
+    "03 - Resources/Pasted image 20251105195410.png",
+    "03 - Resources/Computer Organization and Architecture (11th Edition).md",
+    "03 - Resources/Caculus.md",
+    "00 - Inboxs/Destructor.md",
+    "00 - Inboxs/Đơn vị xử lý.md",
+    "00 - Inboxs/Dynamic Polymorphism.md",
+    "03 - Resources/Pasted image 20251105203501.png",
+    "03 - Resources/Pasted image 20251105200406.png",
+    "03 - Resources/Vector Space.md",
+    "03 - Resources/Drivative.md",
+    "03 - Resources/Web Development.canvas",
+    "03 - Resources/Untitled.canvas",
+    "Clippings",
+    "Attachment",
+    "New folder",
+    "Untitled",
+    "03 - Resources/Unimportant/GIS.canvas",
+    "03 - Resources/Unimportant",
+    "03 - Resources/Computer Vision.canvas",
+    "Excalidraw",
+    "00 - Inboxs",
+    "03 - Resources/Artificial Intelligence",
+    "03 - Resources/New folder"
+  ]
+}

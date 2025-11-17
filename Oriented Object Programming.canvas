@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"9a18ebf09ebbc1c1","type":"text","text":"# Oriented Object Programming","x":-122,"y":0,"width":445,"height":70},
+		{"id":"7224958055a77475","type":"file","file":"00 - Inboxs/Sequence Diagram.md","x":1180,"y":-395,"width":400,"height":215},
+		{"id":"a000a0d5b8ab3021","type":"text","text":"## Programming","x":-23,"y":260,"width":250,"height":60},
+		{"id":"3e772dbdd8d144ed","type":"text","text":"## Analysis","x":-25,"y":-260,"width":250,"height":60},
+		{"id":"b0c3c4c31ce84b94","type":"text","text":"Usecase: Phân tích các chức năng cơ bản của phần mềm","x":-150,"y":-525,"width":250,"height":90},
+		{"id":"56e0d57db1f3be17","type":"text","text":"Activity diagram: Mô tả các thao tác khi thực hiện một tác vụ","x":400,"y":-525,"width":280,"height":79},
+		{"id":"d4e3e2bcee3719a6","type":"file","file":"03 - Resources/Divide & Conquer.md","x":-840,"y":-165,"width":400,"height":400},
+		{"id":"bc409d900b95072c","type":"file","file":"03 - Resources/Dynamic Programming.md","x":-840,"y":320,"width":400,"height":400},
+		{"id":"a3687c2fb6887b08","type":"file","file":"00 - Inboxs/3 Layer Model.md","x":1180,"y":-90,"width":400,"height":320},
+		{"id":"70436ed80a378aec","type":"file","file":"00 - Inboxs/Class (lớp).md","x":1180,"y":290,"width":400,"height":320},
+		{"id":"63235cbda107a841","type":"text","text":"## Design","x":644,"y":-30,"width":250,"height":60},
+		{"id":"e0df2170f443cb64","x":652,"y":430,"width":242,"height":50,"type":"text","text":"## Database\n"},
+		{"id":"d945122bd564a919","x":452,"y":680,"width":400,"height":342,"type":"file","file":"00 - Inboxs/Data Modeling.md"}
+	],
+	"edges":[
+		{"id":"b616612e2aae94e5","fromNode":"3e772dbdd8d144ed","fromSide":"top","toNode":"56e0d57db1f3be17","toSide":"bottom"},
+		{"id":"a0a459ac944b1182","fromNode":"63235cbda107a841","fromSide":"right","toNode":"7224958055a77475","toSide":"left"},
+		{"id":"230aa4eeb8c17166","fromNode":"63235cbda107a841","fromSide":"right","toNode":"a3687c2fb6887b08","toSide":"left"},
+		{"id":"789d7cdc7f76b06a","fromNode":"3e772dbdd8d144ed","fromSide":"top","toNode":"b0c3c4c31ce84b94","toSide":"bottom"},
+		{"id":"aba6c015a3f7a46f","fromNode":"9a18ebf09ebbc1c1","fromSide":"top","toNode":"3e772dbdd8d144ed","toSide":"bottom"},
+		{"id":"a9c55a2cd5c1be21","fromNode":"9a18ebf09ebbc1c1","fromSide":"right","toNode":"63235cbda107a841","toSide":"left"},
+		{"id":"ce4fa36f7f73cad0","fromNode":"9a18ebf09ebbc1c1","fromSide":"bottom","toNode":"a000a0d5b8ab3021","toSide":"top"},
+		{"id":"bb21733d1cd1c5da","fromNode":"63235cbda107a841","fromSide":"right","toNode":"70436ed80a378aec","toSide":"left"},
+		{"id":"16331da5a8442a47","fromNode":"a000a0d5b8ab3021","fromSide":"left","toNode":"d4e3e2bcee3719a6","toSide":"right"},
+		{"id":"fd2657817f54ae17","fromNode":"a000a0d5b8ab3021","fromSide":"left","toNode":"bc409d900b95072c","toSide":"right"},
+		{"id":"c354e961c214a97a","fromNode":"63235cbda107a841","fromSide":"bottom","toNode":"e0df2170f443cb64","toSide":"top"},
+		{"id":"3507ea57fbc84189","fromNode":"e0df2170f443cb64","fromSide":"bottom","toNode":"d945122bd564a919","toSide":"top"}
+	]
+}

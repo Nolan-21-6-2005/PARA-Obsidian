@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - Inboxs",
+  "attachmentFolderPath": "03 - Resources",
+  "userIgnoreFilters": [
+    "02 - Areas/",
+    "04 - Archives/",
+    "01 - Projects/",
+    "03 - Resources/Unimportant/"
+  ],
+  "showInlineTitle": false
+}
