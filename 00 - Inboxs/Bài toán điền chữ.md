@@ -1,0 +1,9 @@
+ DONALD CROSS
++
+  GERALD ROADS
+
+ROBERT DANGER
+
+Ràng buộc ban đầu:
+R = 2.S
+D+1 = R
