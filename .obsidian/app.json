@@ -8,5 +8,6 @@
     "01 - Projects/",
     "03 - Resources/Unimportant/"
   ],
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }

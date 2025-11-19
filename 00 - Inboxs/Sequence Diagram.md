@@ -1,1 +1,0 @@
-Là một sơ đồ biểu diễn luồng hoạt động khi một thao tác xử lý được thực hiện trong hệ thống hướng đối tượng. Nó cho thấy hành vi giữa các đối tượng được thực hiện như thế nào.
