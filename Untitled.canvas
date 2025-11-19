@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"991d072bc7517be4","x":271,"y":-193,"width":250,"height":60,"type":"text","text":"Page"},
+		{"id":"c55cf41c2eccdbe6","x":320,"y":240,"width":250,"height":60,"type":"text","text":""},
+		{"id":"355920d01d18088e","x":-180,"y":-100,"width":250,"height":60,"type":"text","text":"Virtual Machine"},
+		{"id":"383e3b0f604a3117","x":-180,"y":120,"width":250,"height":60,"type":"text","text":"Memory Management Unit"},
+		{"id":"c16a57811cf30d91","x":300,"y":120,"width":250,"height":60,"type":"text","text":"Page Replacment Algorithms"}
+	],
+	"edges":[
+		{"id":"ef56e12e129d9a18","fromNode":"355920d01d18088e","fromSide":"right","toNode":"991d072bc7517be4","toSide":"left"},
+		{"id":"23abbaa351de5ccb","fromNode":"383e3b0f604a3117","fromSide":"top","toNode":"355920d01d18088e","toSide":"bottom"},
+		{"id":"a965da983580acac","fromNode":"383e3b0f604a3117","fromSide":"right","toNode":"c16a57811cf30d91","toSide":"left"}
+	]
+}

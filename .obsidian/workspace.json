@@ -25,14 +25,29 @@
             "id": "d5d2e4f957bf3749",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00 - Inboxs/Test.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 99.51,
+                  "y": 93,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Test"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9636acf3afe2c48e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Resources/Drawing 2025-11-18 13.20.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-18 13.20.56.excalidraw"
             }
           }
         ],
@@ -210,10 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56ce4a3b4affdaeb",
+  "active": "be4a0b2ebd1b6a5c",
   "lastOpenFiles": [
-    "03 - Resources/Subspace.md",
     "00 - Inboxs/Test.md",
+    "Untitled.canvas",
+    "03 - Resources/Drawing 2025-11-18 13.20.56.excalidraw.md",
+    "03 - Resources/Subspace.md",
     "03 - Resources/Drawing 2025-11-17 15.37.51.excalidraw.md",
     "Mathematics.canvas",
     "02 - Areas/P01 - Đặc tả yêu cầu.md",
@@ -236,7 +253,6 @@
     "03 - Resources/ANN development.md",
     "03 - Resources/bfs.webp",
     "Attachment/dashboard-snapshot.png",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "03 - Resources/Đường bậc 2 trong mặt phẳng.md",
     "00 - Inboxs/Delta.md",
@@ -251,8 +267,6 @@
     "00 - Inboxs/Dynamic Polymorphism.md",
     "03 - Resources/Pasted image 20251105203501.png",
     "03 - Resources/Pasted image 20251105200406.png",
-    "03 - Resources/Vector Space.md",
-    "03 - Resources/Drivative.md",
     "03 - Resources/Web Development.canvas",
     "03 - Resources/Untitled.canvas",
     "Clippings",
