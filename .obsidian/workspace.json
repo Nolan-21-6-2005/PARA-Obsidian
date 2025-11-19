@@ -25,17 +25,14 @@
             "id": "d5d2e4f957bf3749",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 99.51,
-                  "y": 93,
-                  "zoom": 0
-                }
+                "file": "00 - Inboxs/2025-11-19.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2025-11-19"
             }
           },
           {
@@ -225,12 +222,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be4a0b2ebd1b6a5c",
+  "active": "d5d2e4f957bf3749",
   "lastOpenFiles": [
-    "00 - Inboxs/Test.md",
-    "Untitled.canvas",
-    "03 - Resources/Drawing 2025-11-18 13.20.56.excalidraw.md",
     "03 - Resources/Subspace.md",
+    "00 - Inboxs/2025-11-19.md",
+    "03 - Resources/Drawing 2025-11-18 13.20.56.excalidraw.md",
+    "Untitled.canvas",
+    "00 - Inboxs/Test.md",
     "03 - Resources/Drawing 2025-11-17 15.37.51.excalidraw.md",
     "Mathematics.canvas",
     "02 - Areas/P01 - Đặc tả yêu cầu.md",
@@ -264,7 +262,6 @@
     "03 - Resources/Caculus.md",
     "00 - Inboxs/Destructor.md",
     "00 - Inboxs/Đơn vị xử lý.md",
-    "00 - Inboxs/Dynamic Polymorphism.md",
     "03 - Resources/Pasted image 20251105203501.png",
     "03 - Resources/Pasted image 20251105200406.png",
     "03 - Resources/Web Development.canvas",
